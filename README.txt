@@ -1,1 +1,3 @@
 This Repo contains various files. It's not a project that will change the face of the world yet, but I included a Python file that prints the prime numbers from 3 to 100.
+
+I also created a small poem in my third commit. My fourth commit will consist in the add of this line in this file. I think that will end the exercise !
